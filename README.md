@@ -2,7 +2,6 @@
 - 👀 Estou interessada em aprender
 - 🌱 Atualmente estou aprendendo programação
 - 💞️ Estou procurando colaborar o aprendizado
-- 📫 How to reach me ...
 
 <!---
 thaysastracke/thaysastracke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
